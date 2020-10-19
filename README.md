@@ -1,11 +1,14 @@
 # agile-engine-image-search
 
 1 - Go to your go installation folder
+
 2 - Create github.com folder if needed
+
 3 - Enter github.com folder
+
 4 - Clone this REPO
 
-5 go run *.go
+5 - go run *.go
 
 
 TODO LIST:
